@@ -27,7 +27,7 @@ The markdown decision model contains:
 * **Reward (R)** : The reward for being in state S or the reward the agent has at the end.
 
 
-* **Policy (!(http://latex.codecogs.com/gif.latex?%5Cinline%20%24%5Cpi%24))** : The solution to markovs decision process or the behaviour of an agent in a marticular state. It is the mapping between all observation/state of an agent to the action to be taken by agent.
+* **Policy (![](http://latex.codecogs.com/gif.latex?%5Cinline%20%24%5Cpi%24))** : The solution to markovs decision process or the behaviour of an agent in a marticular state. It is the mapping between all observation/state of an agent to the action to be taken by agent.
 
 #### MDP notation
 
